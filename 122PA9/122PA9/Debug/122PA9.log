@@ -1,0 +1,25 @@
+﻿  textDisplay.cpp
+  random.cpp
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\enemy.h(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\random.cpp(7): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\random.cpp(8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\random.cpp(14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\random.cpp(15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\random.cpp(21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\random.cpp(22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  projectile.cpp
+  player.cpp
+  pickup.cpp
+  Menu.cpp
+  main.cpp
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\enemy.h(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\main.cpp(27): warning C4305: 'argument': truncation from 'int' to 'bool'
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\main.cpp(28): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\main.cpp(434): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\main.cpp(22): warning C4101: 'option': unreferenced local variable
+  entity.cpp
+  enemy.cpp
+c:\users\stefyboy\documents\visual studio 2015\projects\122pa9\122pa9\enemy.h(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  EndPage.cpp
+  Generating Code...
+  122PA9.vcxproj -> C:\Users\StefyBoy\Documents\Visual Studio 2015\Projects\122PA9\Debug\122PA9.exe
